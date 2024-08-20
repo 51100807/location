@@ -43,6 +43,18 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+
+Use tools like Postman or cURL to interact with the API:
+
+POST /locations: Create a new location.
+GET /locations: Retrieve all locations.
+GET /locations/
+: Retrieve a specific location by ID.
+PUT /locations/
+: Update a location by ID.
+DELETE /locations/
+: Delete a location by ID.
 ```
 
 ## Run tests
